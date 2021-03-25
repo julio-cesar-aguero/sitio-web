@@ -5,5 +5,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <head>
 	<meta charset="utf-8">
 	<title>Hola Mundo</title>
+</head>
+<body>
+	Hola Mundo
 </body>
 </html>
